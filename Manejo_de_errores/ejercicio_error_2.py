@@ -10,6 +10,3 @@ while True:
 
     finally:
         print("Fin del ejercicio")
-
-
-    
